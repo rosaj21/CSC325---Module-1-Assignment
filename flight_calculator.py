@@ -1,7 +1,7 @@
 #T(W) = 180 - 0.1w, this is the main Equation.
 
 
-#First example of using AI
+#Acepted the first example of using AI 
 """
     Calculate the flight time based on the weight of the object.
 

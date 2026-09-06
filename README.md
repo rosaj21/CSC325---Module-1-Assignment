@@ -1,7 +1,4 @@
-This project solves ______ by ______.  
-It is designed for ______ and demonstrates ______.
-
-#Second use of AI -- Description of what is happening in the Code
+#Acepted the second use of AI -- Description of what is happening in the Code
 
 # Flight-Time Calculator
 
